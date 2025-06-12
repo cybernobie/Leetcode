@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cybernobie/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
