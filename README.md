@@ -32,4 +32,16 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
+## Array
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 <!---LeetCode Topics End-->
