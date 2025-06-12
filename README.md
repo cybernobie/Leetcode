@@ -15,6 +15,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/cybernobie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cybernobie/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/cybernobie/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/cybernobie/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
@@ -38,12 +39,26 @@
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 ## Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+## Design
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
