@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cybernobie/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cybernobie/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/cybernobie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/cybernobie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
@@ -50,6 +51,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/cybernobie/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/cybernobie/Leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
