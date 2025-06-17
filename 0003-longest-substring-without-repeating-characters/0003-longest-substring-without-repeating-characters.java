@@ -9,7 +9,7 @@ class Solution {
         {
             while(seen.contains(s.charAt(right)))
             {
-                seen.remove(seen.remove(s.charAt(left)));
+                seen.remove(s.charAt(left));
                 left++;
             }
             seen.add(s.charAt(right));
