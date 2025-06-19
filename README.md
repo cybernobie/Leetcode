@@ -91,6 +91,7 @@
 ## Design
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 ## Doubly-Linked List
 |  |
@@ -99,6 +100,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 ## Sorting
 |  |
@@ -127,4 +129,20 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/cybernobie/Leetcode/tree/master/0002-add-two-numbers) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
