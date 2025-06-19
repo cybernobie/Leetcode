@@ -73,6 +73,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/cybernobie/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/cybernobie/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0232-implement-queue-using-stacks](https://github.com/cybernobie/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
@@ -93,6 +94,7 @@
 ## Design
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cybernobie/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
 | [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
@@ -151,5 +153,6 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/cybernobie/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
