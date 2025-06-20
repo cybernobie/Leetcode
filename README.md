@@ -51,6 +51,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/cybernobie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
+| [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 ## Array
 |  |
@@ -128,6 +129,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
 | [1552-build-an-array-with-stack-operations](https://github.com/cybernobie/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 ## Sliding Window
@@ -163,4 +165,8 @@
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
