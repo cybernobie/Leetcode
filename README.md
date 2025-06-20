@@ -51,6 +51,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/cybernobie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
+| [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 ## Array
 |  |
 | ------- |
@@ -158,4 +159,8 @@
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/cybernobie/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
