@@ -10,6 +10,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/cybernobie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cybernobie/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0205-isomorphic-strings](https://github.com/cybernobie/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cybernobie/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
@@ -41,12 +42,14 @@
 | [0020-valid-parentheses](https://github.com/cybernobie/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/cybernobie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/cybernobie/Leetcode/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/cybernobie/Leetcode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1720-crawler-log-folder](https://github.com/cybernobie/Leetcode/tree/master/1720-crawler-log-folder) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cybernobie/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cybernobie/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Math
 |  |
@@ -168,6 +171,7 @@
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/cybernobie/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
 ## Divide and Conquer
 |  |
