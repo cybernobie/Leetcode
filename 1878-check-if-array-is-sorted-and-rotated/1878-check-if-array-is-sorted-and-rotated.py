@@ -8,6 +8,3 @@ class Solution:
                 if count > 1:
                     return False
         return True
-        
-
-        
