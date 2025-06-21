@@ -68,6 +68,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cybernobie/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
@@ -119,6 +120,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/cybernobie/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +132,7 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 ## Simulation
 |  |
 | ------- |
@@ -174,4 +177,8 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
