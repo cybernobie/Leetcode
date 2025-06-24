@@ -78,6 +78,7 @@
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cybernobie/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
+| [1137-height-checker](https://github.com/cybernobie/Leetcode/tree/master/1137-height-checker) |
 | [1552-build-an-array-with-stack-operations](https://github.com/cybernobie/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
@@ -129,6 +130,7 @@
 | [0088-merge-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0451-sort-characters-by-frequency](https://github.com/cybernobie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/cybernobie/Leetcode/tree/master/1137-height-checker) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -191,6 +193,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
+| [1137-height-checker](https://github.com/cybernobie/Leetcode/tree/master/1137-height-checker) |
 ## Bucket Sort
 |  |
 | ------- |
