@@ -66,6 +66,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/cybernobie/Leetcode/tree/master/0001-two-sum) |
 | [0027-remove-element](https://github.com/cybernobie/Leetcode/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/cybernobie/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/cybernobie/Leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/cybernobie/Leetcode/tree/master/0075-sort-colors) |
@@ -167,6 +168,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
