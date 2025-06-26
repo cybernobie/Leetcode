@@ -76,6 +76,7 @@
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/cybernobie/Leetcode/tree/master/0739-daily-temperatures) |
@@ -168,6 +169,7 @@
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
+| [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
