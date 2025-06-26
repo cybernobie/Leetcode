@@ -73,6 +73,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
@@ -166,6 +167,7 @@
 |  |
 | ------- |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
 |  |
