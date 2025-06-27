@@ -59,6 +59,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/cybernobie/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 | [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 ## Array
@@ -174,6 +175,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
