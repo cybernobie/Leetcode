@@ -43,6 +43,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/cybernobie/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/cybernobie/Leetcode/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/cybernobie/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/cybernobie/Leetcode/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/cybernobie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/cybernobie/Leetcode/tree/master/0344-reverse-string) |
@@ -70,6 +71,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/cybernobie/Leetcode/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/cybernobie/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/cybernobie/Leetcode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -280,4 +282,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/cybernobie/Leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
