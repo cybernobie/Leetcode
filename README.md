@@ -87,6 +87,7 @@
 | [0733-flood-fill](https://github.com/cybernobie/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/cybernobie/Leetcode/tree/master/0739-daily-temperatures) |
 | [0860-design-circular-queue](https://github.com/cybernobie/Leetcode/tree/master/0860-design-circular-queue) |
+| [1036-rotting-oranges](https://github.com/cybernobie/Leetcode/tree/master/1036-rotting-oranges) |
 | [1137-height-checker](https://github.com/cybernobie/Leetcode/tree/master/1137-height-checker) |
 | [1552-build-an-array-with-stack-operations](https://github.com/cybernobie/Leetcode/tree/master/1552-build-an-array-with-stack-operations) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -244,6 +245,7 @@
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/cybernobie/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/cybernobie/Leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -268,6 +270,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/cybernobie/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/cybernobie/Leetcode/tree/master/0733-flood-fill) |
+| [1036-rotting-oranges](https://github.com/cybernobie/Leetcode/tree/master/1036-rotting-oranges) |
 ## Union Find
 |  |
 | ------- |
