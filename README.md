@@ -73,6 +73,7 @@
 | [0013-roman-to-integer](https://github.com/cybernobie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
+| [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
 | [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 ## Array
 |  |
@@ -165,6 +166,7 @@
 | [0053-maximum-subarray](https://github.com/cybernobie/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
 | [1008-binary-tree-cameras](https://github.com/cybernobie/Leetcode/tree/master/1008-binary-tree-cameras) |
 | [1263-number-of-dice-rolls-with-target-sum](https://github.com/cybernobie/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Greedy
@@ -292,6 +294,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/cybernobie/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/cybernobie/Leetcode/tree/master/0207-course-schedule) |
+| [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
 | [0547-number-of-provinces](https://github.com/cybernobie/Leetcode/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/cybernobie/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cybernobie/Leetcode/tree/master/1036-rotting-oranges) |
