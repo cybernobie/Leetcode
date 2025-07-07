@@ -166,6 +166,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1008-binary-tree-cameras](https://github.com/cybernobie/Leetcode/tree/master/1008-binary-tree-cameras) |
+| [1263-number-of-dice-rolls-with-target-sum](https://github.com/cybernobie/Leetcode/tree/master/1263-number-of-dice-rolls-with-target-sum) |
 ## Greedy
 |  |
 | ------- |
