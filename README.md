@@ -79,6 +79,7 @@
 | [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
+| [0367-valid-perfect-square](https://github.com/cybernobie/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0372-super-pow](https://github.com/cybernobie/Leetcode/tree/master/0372-super-pow) |
 ## Array
 |  |
@@ -224,6 +225,7 @@
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
+| [0367-valid-perfect-square](https://github.com/cybernobie/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
