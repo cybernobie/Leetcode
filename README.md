@@ -55,6 +55,7 @@
 | [0020-valid-parentheses](https://github.com/cybernobie/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/cybernobie/Leetcode/tree/master/0058-length-of-last-word) |
+| [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/cybernobie/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/cybernobie/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/cybernobie/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -95,6 +96,7 @@
 | [0053-maximum-subarray](https://github.com/cybernobie/Leetcode/tree/master/0053-maximum-subarray) |
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/cybernobie/Leetcode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -286,12 +288,14 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
 | [0733-flood-fill](https://github.com/cybernobie/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/cybernobie/Leetcode/tree/master/1036-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cybernobie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/cybernobie/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cybernobie/Leetcode/tree/master/0101-symmetric-tree) |
@@ -349,4 +353,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/cybernobie/Leetcode/tree/master/0148-sort-list) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
