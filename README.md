@@ -214,6 +214,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cybernobie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/cybernobie/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cybernobie/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cybernobie/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cybernobie/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -233,6 +234,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0098-validate-binary-search-tree](https://github.com/cybernobie/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0367-valid-perfect-square](https://github.com/cybernobie/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -247,6 +249,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/cybernobie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/cybernobie/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cybernobie/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cybernobie/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cybernobie/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -297,6 +300,7 @@
 | ------- |
 | [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/cybernobie/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/cybernobie/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/cybernobie/Leetcode/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/cybernobie/Leetcode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/cybernobie/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
