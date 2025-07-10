@@ -22,8 +22,6 @@ class Solution {
         if (node == null) return true;
 
         if (node.val <= min || node.val >= max) return false;
-
-        // Check left and right subtrees with updated bounds
         return validate(node.left, min, node.val) && validate(node.right, node.val, max);
     }
 }
