@@ -9,6 +9,7 @@
 | [0012-integer-to-roman](https://github.com/cybernobie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cybernobie/Leetcode/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/cybernobie/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cybernobie/Leetcode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/cybernobie/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/cybernobie/Leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/cybernobie/Leetcode/tree/master/0160-intersection-of-two-linked-lists) |
@@ -94,6 +95,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/cybernobie/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cybernobie/Leetcode/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/cybernobie/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/cybernobie/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/cybernobie/Leetcode/tree/master/0053-maximum-subarray) |
@@ -294,6 +296,7 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/cybernobie/Leetcode/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/cybernobie/Leetcode/tree/master/0037-sudoku-solver) |
 | [0074-search-a-2d-matrix](https://github.com/cybernobie/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
@@ -364,6 +367,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/cybernobie/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/cybernobie/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
