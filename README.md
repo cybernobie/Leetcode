@@ -60,6 +60,7 @@
 | [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/cybernobie/Leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/cybernobie/Leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/cybernobie/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/cybernobie/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/cybernobie/Leetcode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
@@ -187,6 +188,7 @@
 | [0091-decode-ways](https://github.com/cybernobie/Leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/cybernobie/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/cybernobie/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/cybernobie/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/cybernobie/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/cybernobie/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
@@ -370,4 +372,5 @@
 | [0037-sudoku-solver](https://github.com/cybernobie/Leetcode/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/cybernobie/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/cybernobie/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/cybernobie/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
