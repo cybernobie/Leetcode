@@ -4,7 +4,8 @@ class Solution {
 
         for (int num : nums) {
             int i = Collections.binarySearch(sub, num);
-            if (i < 0) i = -(i + 1);  // If not found, get insertion index
+            if (i < 0)
+                i = -(i + 1); // If not found, get insertion index
             if (i == sub.size()) {
                 sub.add(num);
             } else {
