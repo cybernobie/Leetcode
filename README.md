@@ -114,6 +114,7 @@
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/cybernobie/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/cybernobie/Leetcode/tree/master/0200-number-of-islands) |
+| [0300-longest-increasing-subsequence](https://github.com/cybernobie/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cybernobie/Leetcode/tree/master/0322-coin-change) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -196,6 +197,7 @@
 | [0152-maximum-product-subarray](https://github.com/cybernobie/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/cybernobie/Leetcode/tree/master/0198-house-robber) |
 | [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
+| [0300-longest-increasing-subsequence](https://github.com/cybernobie/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/cybernobie/Leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/cybernobie/Leetcode/tree/master/0518-coin-change-ii) |
 | [1008-binary-tree-cameras](https://github.com/cybernobie/Leetcode/tree/master/1008-binary-tree-cameras) |
@@ -248,6 +250,7 @@
 | [0098-validate-binary-search-tree](https://github.com/cybernobie/Leetcode/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/cybernobie/Leetcode/tree/master/0162-find-peak-element) |
+| [0300-longest-increasing-subsequence](https://github.com/cybernobie/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/cybernobie/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
