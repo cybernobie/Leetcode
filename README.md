@@ -18,6 +18,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/cybernobie/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/cybernobie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/cybernobie/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/cybernobie/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Linked List
 |  |
@@ -49,6 +50,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cybernobie/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/cybernobie/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/cybernobie/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/cybernobie/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -123,6 +125,7 @@
 | [0496-next-greater-element-i](https://github.com/cybernobie/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/cybernobie/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/cybernobie/Leetcode/tree/master/0518-coin-change-ii) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/cybernobie/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 | [0682-baseball-game](https://github.com/cybernobie/Leetcode/tree/master/0682-baseball-game) |
@@ -185,6 +188,7 @@
 | [0088-merge-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/cybernobie/Leetcode/tree/master/0148-sort-list) |
 | [0451-sort-characters-by-frequency](https://github.com/cybernobie/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/cybernobie/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/cybernobie/Leetcode/tree/master/0561-array-partition) |
 | [1137-height-checker](https://github.com/cybernobie/Leetcode/tree/master/1137-height-checker) |
 ## Dynamic Programming
@@ -257,6 +261,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/cybernobie/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0300-longest-increasing-subsequence](https://github.com/cybernobie/Leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/cybernobie/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/cybernobie/Leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/cybernobie/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/cybernobie/Leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Heap (Priority Queue)
