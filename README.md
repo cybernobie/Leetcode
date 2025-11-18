@@ -89,6 +89,7 @@
 | [0009-palindrome-number](https://github.com/cybernobie/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/cybernobie/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/cybernobie/Leetcode/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/cybernobie/Leetcode/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/cybernobie/Leetcode/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/cybernobie/Leetcode/tree/master/0258-add-digits) |
 | [0279-perfect-squares](https://github.com/cybernobie/Leetcode/tree/master/0279-perfect-squares) |
@@ -398,4 +399,8 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/cybernobie/Leetcode/tree/master/0139-word-break) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/cybernobie/Leetcode/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
