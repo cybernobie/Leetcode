@@ -141,6 +141,7 @@
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/cybernobie/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1582-design-browser-history](https://github.com/cybernobie/Leetcode/tree/master/1582-design-browser-history) |
 | [1720-crawler-log-folder](https://github.com/cybernobie/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/cybernobie/Leetcode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/cybernobie/Leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 ## Stack
 |  |
